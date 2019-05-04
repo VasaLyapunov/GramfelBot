@@ -1,0 +1,2 @@
+# GramfelBot
+Gramfel discord bot
