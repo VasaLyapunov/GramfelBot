@@ -1,0 +1,11 @@
+{
+	"name": "gramfel-bot",
+	"version": "1.0.0",
+	"description": "Produces Gramfel wisdom",
+	"main": "gramfel-bot.js",
+	"author": "Vasa",
+	"dependencies": {
+		"discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+		"winston": "^3.2.1"
+	}
+}
